@@ -1,6 +1,1 @@
-# Welcome to my README!!!
-now leave, before it's TOO LATE. Github is takeing over the internet.
-## hi.
-i am a middle schooler who is good in HTML and python. I Hate school blockers (securly, hrappa, iboss, etc.) and i work with the people at OMEGA-GD.
-## repositorys you shoud check out:
-PickleBox
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+ben!+a+6th+grader.;I+use+python+and+html.;I+work+with+OMEGA-CD.;I+love+gaming+and+hate+blockers.)](https://git.io/typing-svg)
